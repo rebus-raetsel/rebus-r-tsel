@@ -1,22 +1,3 @@
-var s=document.createElement('script');
-s.type='text/javascript';
-s.src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js';
-var head = document.getElementsByTagName("head")[0];
-var done = false;
-   
-s.onload = s.onreadystatechange = function(){
-    if ( !done && (!this.readyState ||
-    this.readyState == "loaded" || this.readyState == "complete") ) {
-        done = true;
-        head.removeChild(s);
-
-        your_jquery_loaded_callback_function();
-    }
-};
-   
-     head.appendChild(s);
-}
-
 var highest = 27;
 
 $('.field').focus(function () {
