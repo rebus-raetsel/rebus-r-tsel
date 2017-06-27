@@ -270,6 +270,7 @@ button.tools:hover {
 	margin-right: auto;
 	vertical-align: middle;
 	margin-top: 0.35%;
+	object-fit: contain;
 }
 
 .rdw-frame {
