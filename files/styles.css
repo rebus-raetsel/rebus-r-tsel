@@ -9,8 +9,8 @@ body {
 
 .page {
     width: 80%;
-	height: auto;
-	padding-bottom: 100px;
+    height: auto;
+    padding-bottom: 100px;
     border: 1px solid #ddd;
     background-color: rgba(255,255,255,0.5);
     margin-left: auto;
@@ -23,7 +23,7 @@ body {
 h1 {
     width: 92%;
     padding: 9px;
-	font-size: 2.7em;
+    font-size: 2.7em;
     padding-left: 15px;
     color: white;
     border-radius: 4px;
@@ -36,7 +36,7 @@ h1 {
 h2 {
     width: 92%;
     padding: 9px;
-	font-size: 1.8em;
+    font-size: 1.8em;
     padding-left: 15px;
     color: white;
     border-radius: 4px;
@@ -49,7 +49,7 @@ h2 {
 .text {
     width: 90%;
     border: 1px black;
-	font-size: 22px;
+    font-size: 22px;
     margin-left: auto;
     margin-right: auto;
     color: white;
@@ -72,7 +72,7 @@ h2 {
 .nav ul {
     margin: 0;
     display: inline-flex;
-	padding-left: 10%;
+    padding-left: 10%;
 }
 
 .nav ul a li {
@@ -81,7 +81,7 @@ h2 {
     height: 100%;
     box-sizing: border-box;
     display: inline-flex;
-	white-space: nowrap;
+    white-space: nowrap;
     transition: background-color 0.2s linear;
     -o-transition: background-color 0.2s linear;
     -ms-transition: background-color 0.2s linear;
@@ -176,7 +176,7 @@ h2 {
 	box-shadow: inset 2000px 0 0 0 rgba(255,255,255, 0.7);
 	-webkit-transition: box-shadow 0.2s !important;
 	transition: box-shadow 0.2s !important;
-	background-image: url(https://goo.gl/031Jw5);
+	background-image: url(search.jpg);
 	border-left: none;
 }
 
@@ -239,7 +239,7 @@ button.tools {
 	box-shadow: inset 2000px 0 0 0 rgba(255,255,255, 0.7);
 	-webkit-transition: box-shadow 0.2s !important;
 	transition: box-shadow 0.2s !important;
-	background-image: url(https://goo.gl/031Jw5);
+	background-image: url(search.jpg);
 }
 
 .left {
@@ -310,7 +310,7 @@ button.tools:hover {
 	box-shadow: inset 2000px 0 0 0 rgba(255,255,255, 0.7);
 	-webkit-transition: box-shadow 0.2s !important;
 	transition: box-shadow 0.2s !important;
-	background-image: url(https://goo.gl/031Jw5);
+	background-image: url(search.jpg);
 	text-shadow: none;
 	border-radius: 8px;
 	display: inline-block;
