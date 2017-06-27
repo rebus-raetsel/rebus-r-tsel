@@ -264,6 +264,7 @@ button.tools:hover {
 	border: 1px solid #9AC4EB;
 	border-radius: 10px;
 	display: block;
+	height: 98%;
 	margin-left: auto;
 	margin-right: auto;
 	vertical-align: middle;
