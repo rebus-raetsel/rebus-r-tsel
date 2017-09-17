@@ -1,4 +1,4 @@
-var highest = 30;
+var highest = 32;
 
 $('.field').focus(function () {
     var $this = $(this)
